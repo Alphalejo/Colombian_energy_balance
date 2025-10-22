@@ -1,0 +1,8 @@
+raw_gas_production_df = https://ourworldindata.org/grapher/gas-production-by-country.csv?v=1&csvType=filtered&useColumnShortNames=true&time=earliest..2024&country=~COL&overlay=download-data
+raw_gas_consumption_df = https://ourworldindata.org/grapher/gas-consumption-by-country.csv?v=1&csvType=filtered&useColumnShortNames=true&tab=line&country=~COL&mapSelect=~COL&overlay=download-data
+
+
+Additional data only if needed
+
+raw_source_consumtion_df = https://ourworldindata.org/grapher/primary-sub-energy-source.csv?v=1&csvType=filtered&useColumnShortNames=true&country=~COL&overlay=download-data
+raw_source_production_df = https://ourworldindata.org/grapher/electricity-prod-source-stacked.csv?v=1&csvType=filtered&useColumnShortNames=true&country=~COL&overlay=download-data
